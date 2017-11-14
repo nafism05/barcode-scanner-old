@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="sun_rise">#FB8C00</color> <!-- COLOR PRIMARY-->
+    <color name="sun_set">#F57C00</color> <!-- COLOR PRIMARY DARK -->
+    <color name="sun_set_trans">#99FF9800</color> <!-- COLOR PRIMARY DARK -->
+    <color name="butter_milk">#F2DEA1</color> <!-- COLOR PRIMARY LIGHT -->
+    <color name="breath_fire">#FB7168</color> <!-- COLOR ACCENT -->
+    <color name="seashell">#FDFCFB</color> <!-- COLOR BACKGROUND -->
+    <color name="charcoal">#212121</color> <!-- COLOR PRIM TEXT -->
+    <color name="dew">#727272</color> <!-- COLOR SEC TEXT -->
+    <color name="gravel">#B6B6B6</color> <!-- COLOR DIVIDER -->
+    <color name="shadow">#424242</color>
+    <color name="ghost_shadow">#66000000</color>
+    <color name="dark_soul">#80000000</color>
+    <color name="moss">#4DA20D</color>
+    <color name="aqua">#6382D3</color>
+</resources>
